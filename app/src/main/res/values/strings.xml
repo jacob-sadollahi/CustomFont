@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Font</string>
+
+    <string name="text">برنامه نویسی اندروید</string>
+
+    <string name="IRANSansMobile_UltraLight">IRANSansMobile_UltraLight</string>
+    <string name="IRANSansMobile_Light">IRANSansMobile_Light</string>
+    <string name="IRANSansMobile_Medium">IRANSansMobile_Medium</string>
+    <string name="IRANSansMobile_Bold">IRANSansMobile_Bold</string>
+</resources>
